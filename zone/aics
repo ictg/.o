@@ -1,2 +1,2 @@
-example  IN  NS  ns1.aics.libre
-example  IN  NS  ns2.aics.libre.
+aics  IN  NS  ns1.aics.libre
+aics  IN  NS  ns2.aics.libre.
